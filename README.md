@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Spring Boot & JPA
+
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
@@ -18,7 +20,7 @@
 ![jhhong0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhhong0930&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhong0930&layout=compact)](https://github.com/jhhong0930/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhong0930&layout=compact&theme=radical)](https://github.com/jhhong0930/github-readme-stats)
 
 <!--
 **jhhong0930/jhhong0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
