@@ -1,26 +1,72 @@
-### Hi there 👋
+## Jaehwan Hong
+Hello there! <br>
+✔ I'm a Junior Back End Developer <br>
+✔ Main language is Java, interested in Python <br>
+✔ Speak Mandarin and English <br>
 
-🌱 I’m currently learning Spring Boot & JPA
 
-### Tech Stack
+## Tech Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7dF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
+<br>
+
+<table>
+  
+  <tr>
+    <td>
+      language
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7dF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      library & framework
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      build tool
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp;
+    </td>
+  </tr>
+  
+   <tr>
+    <td>
+      database
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp;
+    </td>
+  </tr>
+
+</table>
+
+<br>
+
+
+
+
 
 
 
 
 
 ![jhhong0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhhong0930&show_icons=true&theme=radical)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhong0930&layout=compact&theme=radical)](https://github.com/jhhong0930/github-readme-stats)
 
