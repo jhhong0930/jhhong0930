@@ -3,6 +3,7 @@ Hello there! <br>
 ✔ I'm a Junior Back End Developer <br>
 ✔ Main language is Java, interested in Python <br>
 ✔ Speak Mandarin and English <br>
+🎯 Currently learning Spring Boot and JPA
 
 
 ## Tech Stack
