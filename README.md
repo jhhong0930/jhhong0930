@@ -3,7 +3,9 @@ Hello there! <br>
 ✔ I'm a Junior Back End Developer <br>
 ✔ Main language is Java, interested in Python <br>
 ✔ Speak Mandarin and English <br>
-🎯 Currently learning Spring Boot and JPA
+✔ Focusing on OOP & TDD <br>
+🎯 Currently learning Spring Boot and JPA <br>
+📞 contact: jhhong0930@gmail.com
 
 
 ## Tech Stack
