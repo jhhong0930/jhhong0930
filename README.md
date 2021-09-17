@@ -5,7 +5,7 @@ Hello there! <br>
 ✔ Speak Mandarin and English <br>
 ✔ Focusing on OOP & TDD <br>
 🎯 Currently learning Spring Boot and JPA <br>
-📞 contact: jhhong0930@gmail.com
+📩 contact: jhhong0930@gmail.com
 
 
 ## Tech Stack
