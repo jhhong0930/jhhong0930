@@ -13,7 +13,7 @@ Hello there! <br>
 <br>
 
 <table>
-  
+
   <tr>
     <td>
       language
@@ -24,7 +24,7 @@ Hello there! <br>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       library & framework
@@ -37,7 +37,7 @@ Hello there! <br>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       build tool
@@ -47,7 +47,7 @@ Hello there! <br>
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp;
     </td>
   </tr>
-  
+
    <tr>
     <td>
       database
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
